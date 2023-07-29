@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AarushTewari
-- 👀 I’m interested in sports, coding and learning new stuff
-- 📫 How to reach me email-tewariaarush@gmail.com linkedin-https://www.linkedin.com/in/aarush-tewari-867374249/
+- 👋 Hi, I’m @AarushTewari, a student of BITS Pilani
+- I work as a back-end developer at Student Union Technical Team, BITS Pilani (@bitssutechteam)
+
 
 <!---
 AarushTewari/AarushTewari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
