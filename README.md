@@ -4,7 +4,7 @@
 - Almost all my repositories where I have made significant contribution are private, I have only some basic stuff public on my profile as of now.
 
 
-[![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarushTewari)](https://github.com/anuraghazra/github-readme-stats)
+(https://raw.githubusercontent.com/AarushTewari/stats/d6e7b56daf1c03871cd9cee37c58c5cd4694f840/generated/overview.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushTewari)](https://github.com/anuraghazra/github-readme-stats)
 
