@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AarushTewari, a student of BITS Pilani
 - I work as a back-end developer at Student Union Technical Team, BITS Pilani (@bitssutechteam) - a student club that makes app to ease the campus life of students by catering to their academic and non academic needs.
 - Most of my work up untill now have been done using Python and Django.
-- Almost all my repositories where I have made significant contribution are private, I have only some basic stuff public on my profile as of now.
-
-
-(https://raw.githubusercontent.com/AarushTewari/stats/d6e7b56daf1c03871cd9cee37c58c5cd4694f840/generated/overview.svg)
+- Most of my work is in private repositories, only a ferw personal projects are public.
+- Things I have worked recently upon ->
+  - Backend for an app for Young Entrepreneurship Bootcamp(YEB) conducted by BITS Pilani\
+  - Backend code for BOSM(sports fest of my college)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushTewari)](https://github.com/anuraghazra/github-readme-stats)
 
