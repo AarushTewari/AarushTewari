@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AarushTewari, a student of BITS Pilani
-- I work as a back-end developer at Student Union Technical Team, BITS Pilani (@bitssutechteam)
+- I work as a back-end developer at Student Union Technical Team, BITS Pilani (@bitssutechteam) - a student club that makes app to ease the campus life of students by catering to their academic and non academic needs.
+- Most of my work up untill now have been done using Python and Django.
+- Almost all my repositories where I have made significant contribution are private, I have only some basic stuff public on my profile as of now.
 
 
 <!---
