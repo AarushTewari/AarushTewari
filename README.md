@@ -6,7 +6,8 @@
   - Backend for an app for Young Entrepreneurship Bootcamp(YEB) conducted by BITS Pilani\
   - Backend code for BOSM(sports fest of my college)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushTewari&theme=github_dark
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushTewari&theme=github_dark)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushTewari)](https://github.com/anuraghazra/github-readme-stats)
 
