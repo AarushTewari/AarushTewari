@@ -3,7 +3,7 @@
 - Most of my work up untill now have been done using Python and Django.
 - Most of my work is in private repositories, only a few personal projects are public.
 - Things I have worked recently upon ->
-  - Backend for an app for Young Entrepreneurship Bootcamp(YEB) conducted by BITS Pilani\
+  - Backend for an app for Young Entrepreneurship Bootcamp(YEB) conducted by BITS Pilani
   - Backend code for BOSM(sports fest of my college)
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushTewari&theme=github_dark)
